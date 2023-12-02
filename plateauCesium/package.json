@@ -12,7 +12,8 @@
   "dependencies": {
     "cesium": "^1.111.0",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "vite-plugin-cesium": "^1.2.22"
   },
   "devDependencies": {
     "@types/react": "^18.2.37",
